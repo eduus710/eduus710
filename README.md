@@ -1,0 +1,3 @@
+- 👋 I'm an ex-Wall Street tech professional now doing some graduate study in Data Science at University of Delaware
+- 👀 I’m interested in Data, Machine Learning and Deep Learning
+- 🌱 I’m currently learning graduate-level Probability
