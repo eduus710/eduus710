@@ -1,3 +1,4 @@
-- 👋 I'm an ex-Wall Street tech professional now doing some graduate study in Data Science at University of Delaware
-- 👀 I’m interested in Data, Machine Learning and Deep Learning
-- 🌱 I’m currently learning graduate-level Probability
+- now: graduate student in data science at University of Delaware
+- formerly: wall street tech professional in wealth management and fixed income
+- interests: open data, machine learning, deep learning
+- learning: graduate-level probability
